@@ -1,0 +1,14 @@
+This is a simple application developed using Python. The backend is sqlite database while the front
+is developed using ...
+
+this program stores this book information:
+title,Author,Year,ISBN
+
+User can:
+
+View all records
+search all records
+add entry
+update entry
+delete
+close
